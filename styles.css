@@ -43,3 +43,36 @@ p {
     font-family: 'Young Serif', Times, serif;
     margin: 20px;
 }
+
+.lefttext1 {
+    text-align: left;
+    margin: 20px;
+}
+
+.lefttext2 {
+    text-align: left;
+    margin: 20px;
+    font-family: 'Young Serif', Times, serif;
+}
+
+.leftimage1 {
+    float: left;
+    margin: 20px;
+}
+
+.leftimage2 {
+    float: left;
+    margin: 20px;
+    border: 1px solid white;
+}
+
+.rightimage1 {
+    float: right;
+    margin: 20px;
+}
+
+.rightimage2 {
+    float: right;
+    margin: 20px;
+    border: 1px solid white;
+}
