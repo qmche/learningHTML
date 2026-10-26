@@ -1,0 +1,45 @@
+body {
+    background-color: blue;
+    font-family: 'Helvetica', sans-serif;
+    color: white;
+    margin: 50px;
+}
+
+H1 {
+    color: rgb(0, 255, 55);
+    text-align: center;
+    font-family:'Young Serif', serif;
+    margin: 50px;
+}
+
+H2 {
+    color: rgb(0, 255, 55);
+    text-align: center;
+    font-family:'Young Serif', serif;
+    margin: 40px;
+}
+
+H3 {
+    color: rgb(132, 191, 253);
+    text-align: center;
+    font-family:'Helvetica', sans-serif;
+    margin: 30px;
+}
+
+p {
+    background-color: black;
+    border: 1px solid white;
+    color: rgb(0,255,55);
+    text-align: justify;
+    font-family:'Helvetica', sans-serif;
+    font-stretch: 2;
+    margin: 20px;
+    padding: 15px;
+}
+
+
+.greentext {
+    color: rgb(0, 255, 55);
+    font-family: 'Young Serif', Times, serif;
+    margin: 20px;
+}
